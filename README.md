@@ -1,0 +1,2 @@
+# Raita-Samparka-Kendra
+- Farmers will buy the fertilizers at RSK, in order to purchase they have to registered by  the executives. - Farmers should complete the KYC of his/her farm (register the farm details, property id,  area etc.), a farmer can register one or more farm land. - Executives will make an entry of each purchase made by the farmer along with the crop  details. - Maintain the history of the crops in their farm which will help them to claim insurance  in case of disaster.
